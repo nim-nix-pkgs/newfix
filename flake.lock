@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391277,
-        "narHash": "sha256-t7J29QmOqQJ7Zn2zAWdyhLJIdgJG7ttxBubfK/bKQzM=",
+        "lastModified": 1652791685,
+        "narHash": "sha256-gyCXDVHTq8PfoAH2JGuID6WwURQM2dcoSfl4jlTCy7U=",
         "owner": "nim-nix-pkgs",
         "repo": "newfix",
-        "rev": "f4ef1ab5634455797b5114134644fc8d8c9db67f",
+        "rev": "11b152c2eba19e18f7b7fe4a3b1a2b10a60a6393",
         "type": "github"
       },
       "original": {
