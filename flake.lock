@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334626,
-        "narHash": "sha256-j9ph4gCqKj+3yE1OA6wfH2yy9jzhMRpwzrLvjooCToI=",
+        "lastModified": 1668748895,
+        "narHash": "sha256-SvfcIuT5oWz990vxo84IEaQvRJLpBT0CvC+vtVbX5fo=",
         "owner": "nim-nix-pkgs",
         "repo": "newfix",
-        "rev": "1d344df724fb39715e8352f7e10cd8e2214649d6",
+        "rev": "984cc9e8e3fbf1751eebe3ee8ff904c4d6858977",
         "type": "github"
       },
       "original": {
